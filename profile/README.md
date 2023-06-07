@@ -1,6 +1,4 @@
-## Strix Labs LLC 
-
-🦉
+## Strix Labs LLC 🦉
 
 <!--
 
