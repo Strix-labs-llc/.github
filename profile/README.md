@@ -1,4 +1,6 @@
-## Hi there 👋
+## Strix Labs LLC 👋
+
+[![Build Class Image](https://github.com/Strix-labs-llc/occidentalis/actions/workflows/build.yml/badge.svg)](https://github.com/Strix-labs-llc/occidentalis/actions/workflows/build.yml)
 
 <!--
 
