@@ -1,4 +1,7 @@
-## Strix Labs LLC 👋
+## Strix Labs LLC 
+
+🦉
+
 <!--
 
 **Here are some ideas to get you started:**
